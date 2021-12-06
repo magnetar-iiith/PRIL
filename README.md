@@ -1,4 +1,8 @@
-# Setup and installation instructions
+# Privacy-Aware Inverse RL (PRIL) Analysis Framework
+Code, environments, and scripts for the paper: "How Private Is Your RL Policy? An Inverse RL Based Analysis Framework" - AAAI 2022  
+Link to paper: _____
+
+## Setup and installation instructions
 All experiments performed are performed within a conda environment with python=3.8
 We use the following external libraries:
 - numpy
